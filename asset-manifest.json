@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/comments-check-project/static/css/main.41786c6b.css",
+    "main.js": "/comments-check-project/static/js/main.764f5e77.js",
+    "index.html": "/comments-check-project/index.html",
+    "main.41786c6b.css.map": "/comments-check-project/static/css/main.41786c6b.css.map",
+    "main.764f5e77.js.map": "/comments-check-project/static/js/main.764f5e77.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41786c6b.css",
+    "static/js/main.764f5e77.js"
+  ]
+}
